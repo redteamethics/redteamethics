@@ -1,0 +1,1 @@
+I will preserve confidentiality and abide by the rules of engagement. I will not deceive my colleagues or breach their trust to achieve my objectives. I will improve our security by being the best opponent possible for our defensive security.
