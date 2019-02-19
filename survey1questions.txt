@@ -1,0 +1,19 @@
+Which of these goes too far?
+
+Send a phishing email
+Vish the receptionist for personal information
+Send emails threatening legal action
+Impersonate an executive and spoof their email to send orders to employees
+Involve external or unaware parties and trick them into aiding you
+Phish the CEO (or VIPs) (make an executive look bad or stupid)
+Point out the flaws in a colleague’s work especially if they are friendly or important
+Bribery
+Compromise personal devices (also legal issues)
+Using debt or other problems from OSINT to blackmail on an employee
+Threaten family members
+Compromise legal documents
+DDoS the organization
+Destroy production machines
+Planting actual or fake illegal content on a machine and blackmail user
+
+Text based answer: Any other ideas that are particularly horrifying?
