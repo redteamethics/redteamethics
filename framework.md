@@ -15,3 +15,7 @@
   1. Social
   2. Digital
   3. Physical
++ Operational Security
+  1. Who are the owners of the test?
+  2. Are there an absolute minimum number of people who know the test is being conducted?
+  3. Are any dangerous tools or materials being used?
