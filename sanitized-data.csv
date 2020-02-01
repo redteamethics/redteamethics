@@ -1,0 +1,542 @@
+Continent,GeoGroup,Country,Region,Survey Role,Send a phishing email,Target the company receptionist for sensitive information,Send emails threatening legal action,Impersonate an executive and spoof their email to send orders to employees,Involve external or unaware parties and trick them into aiding you,"Phish the CEO or other VIPs, making executives look bad or stupid",Point out the flaws in a colleague's work especially if they are friendly or important,Bribery,RAT (remote access Trojan) a 0n-work device (laptop/tablet/phone) or a device belonging to a family member,Using debt or other problems from OSINT (public info) to blackmail an employee,Threaten to harm an employee's family members,Compromise legal or confidential documents inside the company,DoS/DDoS the organization,Destroy production data/systems as part of an attack or test,Planting actual or fake illegal content on a machine to blackmail user,Job Role,ITorNOT,SecurityOrNot,RedOrNot
+North America,North America,United States,Virginia,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Virginia,1,0,1,1,1,0,1,0,1,1,1,1,1,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Georgia,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Pennsylvania,1,0,0,1,0,0,0,0,0,1,1,1,0,0,1,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Massachusetts,1,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Italy,,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,IT but not Security,IT,NotSecurity,NotRed
+Europe,Europe,Italy,,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,IT but not Security,IT,NotSecurity,NotRed
+Europe,Europe,Spain,Malaga,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,0,0,0,0,0,1,0,1,1,0,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Rhode Island,1,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+Asia,Asia,China,,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Other (Non IT),NotIT,NotSecurity,NotRed
+Europe,Europe,Belarus,,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,Canada,Northwest Territories,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,New Jersey,0,0,0,1,0,0,0,0,0,1,1,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Georgia,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Louisiana,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,New York,0,0,0,0,0,0,1,1,1,0,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Africa,Middle East and Africa,"Tanzania, United Republic Of",,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Colorado,1,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Middle East,Middle East and Africa,United Arab Emirates,,0,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+South America,South and Central America,Brazil,,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,District Of Columbia,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Virginia,0,0,0,1,0,1,0,0,1,1,1,1,0,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+Europe,Europe,Belarus,,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,Red team/Pentester - tests other organizations,IT,Security,Red
+Europe,Europe,Finland,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Ohio,0,0,0,0,0,1,0,0,1,0,0,1,0,1,1,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+Europe,Europe,Poland,,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,Canada,Ontario,0,0,1,0,0,1,1,1,1,1,1,1,0,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,Canada,Ontario,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Ohio,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Texas,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Virginia,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Illinois,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,Canada,,1,0,1,0,0,1,0,1,1,1,1,1,1,1,0,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Colorado,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Texas,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,New Jersey,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Red team/Pentester - tests your own organization,IT,Security,Red
+Europe,Europe,United Kingdom,England,1,0,1,0,0,1,0,0,1,1,1,1,0,0,1,1,IT but not Security,IT,NotSecurity,NotRed
+South America,South and Central America,Argentina,,0,0,0,0,0,1,0,0,1,1,1,1,0,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,New York,0,0,0,0,0,1,0,0,1,1,1,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+Europe,Europe,Sweden,,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Russian Federation,,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,1,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+Africa,Middle East and Africa,South Africa,,1,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Oklahoma,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+Europe,Europe,Denmark,,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,District Of Columbia,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+Asia,Asia,China,,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,District Of Columbia,0,0,1,1,0,1,0,0,0,1,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Virginia,1,0,1,0,1,1,0,1,1,1,1,1,1,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+Europe,Europe,France,,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,IT but not Security,IT,NotSecurity,NotRed
+Europe,Europe,United Kingdom,Gloucestershire,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,California,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Maryland,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+Europe,Europe,Poland,,0,0,0,0,1,0,0,1,0,0,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Connecticut,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,District Of Columbia,1,0,0,1,0,1,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Michigan,1,0,0,1,0,0,1,1,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,Canada,Ontario,1,0,0,0,0,0,0,0,1,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,Canada,Ontario,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,1,0,0,0,0,1,1,0,1,1,1,1,1,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,New Jersey,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Colorado,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,1,0,0,0,1,0,1,0,0,0,1,1,1,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,1,0,0,1,1,1,0,0,1,1,1,1,0,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Louisiana,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,New York,0,0,0,0,0,1,0,0,0,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,1,0,0,0,0,0,1,0,1,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,California,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Massachusetts,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,California,1,0,0,0,0,0,0,0,1,0,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,United Kingdom,Wales,0,0,1,1,0,1,0,0,1,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Pennsylvania,0,0,0,0,0,1,0,0,0,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Mexico,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,1,0,0,0,0,0,0,0,1,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,District Of Columbia,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,1,0,0,1,0,1,1,0,1,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,Canada,British Columbia,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Spain,Ciudad Real,1,0,0,0,0,1,0,0,0,1,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,United Kingdom,England,1,0,0,1,0,0,0,1,1,0,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Austria,Bundesland Wien,1,0,0,1,0,1,0,1,1,1,1,1,1,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+Europe,Europe,France,,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Oklahoma,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,United Kingdom,England,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,0,IT but not Security,IT,NotSecurity,NotRed
+Europe,Europe,Germany,Nordrhein-westfalen,0,0,0,0,0,1,0,0,0,1,1,1,1,0,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Utah,1,0,0,0,0,1,0,0,0,1,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Pennsylvania,1,0,0,0,0,1,0,0,1,1,1,1,0,0,0,1,Red team/Pentester - tests your own organization,IT,Security,Red
+Oceania,Oceania,Australia,Australian Capital Territory,0,0,0,1,0,1,0,0,1,0,1,1,0,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+Europe,Europe,United Kingdom,England,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,1,IT but not Security,IT,NotSecurity,NotRed
+Europe,Europe,Ireland,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,Canada,Quebec,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Minnesota,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Pennsylvania,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,New Jersey,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Maryland,1,0,0,0,0,1,0,0,0,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Pennsylvania,1,0,0,0,0,0,1,0,0,1,1,1,1,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Michigan,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,New Jersey,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Colorado,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Denmark,,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,0,0,1,0,1,1,0,1,1,0,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,California,0,0,0,0,0,1,1,0,1,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Georgia,1,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+Central America,South and Central America,Honduras,,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Oklahoma,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Georgia,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Ohio,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Ohio,1,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Virginia,0,0,1,0,1,1,1,1,0,1,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Kansas,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Ohio,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Virginia,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,New Jersey,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Romania,,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,1,Other (Non IT),NotIT,NotSecurity,NotRed
+Europe,Europe,Netherlands,,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,IT but not Security,IT,NotSecurity,NotRed
+Europe,Europe,Italy,,0,0,0,0,0,1,0,1,0,1,1,1,0,0,0,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,Mexico,,1,1,1,0,1,1,0,1,1,1,1,1,1,1,0,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Missouri,0,0,0,0,0,1,0,0,1,0,1,1,0,1,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+Caribbean,South and Central America,Cayman Islands,,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Tennessee,1,0,0,0,0,0,0,1,1,0,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Alabama,0,1,0,0,1,1,1,0,1,0,1,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Germany,,1,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Georgia,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Spain,Madrid,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,New York,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+Europe,Europe,Italy,,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+Europe,Europe,Italy,,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Kansas,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,Canada,Quebec,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Germany,Hamburg,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Virginia,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,Canada,Ontario,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Missouri,1,0,1,1,0,1,0,0,1,0,1,1,1,0,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Virginia,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Florida,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Texas,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New York,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Alabama,1,0,0,0,0,0,0,1,0,0,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Texas,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+Asia,Asia,China,,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Virginia,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,,1,0,0,1,0,1,0,1,1,0,1,1,0,0,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Utah,1,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Pennsylvania,0,0,0,0,0,1,0,0,1,1,1,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Pennsylvania,0,0,0,1,0,1,0,0,1,1,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Louisiana,1,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Middle East,Middle East and Africa,Oman,,0,1,0,1,0,0,0,0,1,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+Europe,Europe,Sweden,,0,0,0,1,0,0,0,1,1,0,1,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,North Carolina,1,0,0,0,0,1,0,0,1,1,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,New Jersey,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,0,Red team/Pentester - tests other organizations,IT,Security,Red
+Europe,Europe,France,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,California,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,New Jersey,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,IT but not Security,IT,NotSecurity,NotRed
+Europe,Europe,Italy,,1,0,0,0,1,0,1,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,1,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Connecticut,0,0,0,0,0,1,0,0,1,1,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Florida,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Pennsylvania,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,0,0,0,1,0,1,0,0,1,1,1,1,0,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+Europe,Europe,Switzerland,,0,0,0,1,0,1,0,0,0,1,0,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Georgia,0,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Arizona,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Indiana,1,0,0,1,0,1,0,0,1,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Ukraine,,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Nevada,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Russian Federation,,0,0,0,0,0,1,0,0,1,1,1,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+South America,South and Central America,Brazil,,0,0,0,0,1,1,1,0,1,0,0,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Belgium,,1,1,1,0,1,0,1,0,1,1,1,1,1,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+Middle East,Middle East and Africa,Egypt,,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Florida,1,0,0,0,0,1,0,0,1,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,Canada,Ontario,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,IT but not Security,IT,NotSecurity,NotRed
+Asia,Asia,Japan,,0,0,0,1,0,1,0,0,0,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+Asia,Asia,Japan,,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Michigan,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Wisconsin,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,0,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Virginia,1,0,0,0,0,1,0,1,0,1,1,1,1,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Georgia,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Kansas,1,0,0,0,0,1,0,0,0,1,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,Red team/Pentester - tests your own organization,IT,Security,Red
+Europe,Europe,Romania,,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Arkansas,1,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Alaska,1,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Maryland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Texas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Romania,,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,District Of Columbia,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Texas,1,0,0,1,0,1,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,Canada,Ontario,0,0,0,0,0,1,0,0,1,1,1,1,1,0,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Virginia,1,0,0,0,0,0,1,0,0,1,1,1,0,0,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Ohio,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,New Jersey,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Pennsylvania,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Red team/Pentester - tests your own organization,IT,Security,Red
+Middle East,Middle East and Africa,Israel,,1,0,1,1,0,1,0,0,1,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Kansas,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Virginia,1,0,0,0,0,0,0,1,0,0,0,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Russian Federation,,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,New Jersey,1,0,1,0,1,0,0,0,0,1,1,1,0,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Kansas,1,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Florida,0,0,0,1,0,1,0,0,1,0,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,,1,0,0,0,0,1,0,1,0,0,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,New Jersey,1,0,0,1,0,1,1,0,1,1,1,1,1,1,1,1,Unknown,Unknown,,
+Europe,Europe,Romania,,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,Unknown,Security,NotRed
+North America,North America,United States,Georgia,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,Unknown,Security,NotRed
+North America,North America,United States,Georgia,0,0,0,0,0,1,1,1,1,0,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Georgia,1,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+Europe,Europe,Norway,,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,South Carolina,0,0,0,0,0,0,1,0,1,0,1,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,New Jersey,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,California,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Alaska,0,0,0,0,0,1,0,0,0,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,Canada,British Columbia,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Asia,Asia,Kazakhstan,,1,1,0,0,0,1,0,0,1,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Belgium,,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Illinois,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Georgia,1,0,0,0,0,0,1,0,1,0,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Pennsylvania,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Georgia,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Alabama,1,0,0,0,0,1,0,0,1,1,1,1,0,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Pennsylvania,0,0,1,0,0,1,1,0,0,0,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,New Jersey,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Michigan,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Texas,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+Asia,Asia,China,,0,0,0,0,0,1,0,0,1,0,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,France,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Netherlands,,1,0,0,0,0,1,0,0,0,1,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,United Kingdom,England,0,0,0,0,0,1,0,1,0,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,California,1,0,1,0,0,1,1,1,0,0,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+Europe,Europe,Switzerland,,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,Red team/Pentester - tests other organizations,IT,Security,Red
+Europe,Europe,"Moldova, Republic Of",,1,0,0,1,0,1,1,1,1,0,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,USA,,1,0,0,0,0,0,1,0,0,1,0,1,1,0,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Georgia,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Minnesota,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Norway,,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Germany,Hessen,1,0,0,0,0,1,1,0,1,0,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Denmark,,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Oregon,1,0,0,0,0,1,0,0,0,1,0,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Texas,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,New Jersey,0,0,0,1,0,0,0,0,1,1,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Ohio,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,1,0,0,1,0,1,1,0,1,0,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+Europe,Europe,France,,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Virginia,0,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Kansas,0,0,0,1,0,0,1,0,1,0,1,1,0,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Colorado,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Oceania,Oceania,Australia,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Minnesota,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,1,0,0,1,0,1,0,1,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Asia,Asia,China,,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Pennsylvania,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,New Jersey,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Virginia,0,0,0,0,0,1,1,1,0,1,0,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Georgia,1,0,0,1,0,1,0,0,1,1,1,1,1,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,New Jersey,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+South America,South and Central America,Brazil,,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Oregon,0,0,0,0,0,1,0,0,0,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,Canada,Ontario,0,0,0,1,0,1,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Oceania,Oceania,Australia,Australian Capital Territory,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Florida,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,New Jersey,0,0,0,0,0,1,0,0,1,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,1,0,0,1,1,0,0,0,0,1,1,1,1,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Georgia,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,Canada,Ontario,0,0,0,0,0,1,0,0,0,1,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,1,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,IT but not Security,IT,NotSecurity,NotRed
+Europe,Europe,Russian Federation,,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,Canada,British Columbia,1,0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+Europe,Europe,Hungary,,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Kansas,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+Asia,Asia,China,,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+Middle East,Middle East and Africa,Egypt,,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Georgia,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Virginia,1,0,0,0,0,0,1,0,0,0,1,1,0,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,California,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Virginia,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Minnesota,1,0,0,1,0,0,0,0,1,0,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Denmark,,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+Europe,Europe,Italy,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Red team/Pentester - tests your own organization,IT,Security,Red
+Europe,Europe,Poland,,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,Other (Non IT),NotIT,NotSecurity,NotRed
+Europe,Europe,Norway,,1,0,1,0,1,1,1,0,1,0,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Sweden,,0,0,0,0,0,1,0,0,1,1,1,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+Europe,Europe,Hungary,,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,Red team/Pentester - tests your own organization,IT,Security,Red
+Africa,Middle East and Africa,South Africa,Western Cape,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Missouri,0,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+Oceania,Oceania,Australia,New South Wales,1,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+Europe,Europe,Romania,,0,0,0,0,0,1,0,0,1,1,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Russian Federation,,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Kansas,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,California,1,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Maryland,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Washington,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Vermont,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Virginia,1,0,0,0,0,1,0,0,0,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Ireland,,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Germany,Hamburg,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Oklahoma,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,Canada,Ontario,0,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Kansas,0,0,0,0,0,1,0,1,1,1,1,1,0,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Texas,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Nebraska,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Virginia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,California,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,Canada,Ontario,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Illinois,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Kansas,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,USA,,1,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Virginia,1,0,0,1,1,1,0,0,1,1,1,1,0,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+Europe,Europe,Spain,,0,0,0,1,0,1,0,1,1,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Massachusetts,0,0,0,0,0,1,0,1,1,1,1,1,0,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Indiana,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+Africa,Middle East and Africa,Kenya,,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,New Jersey,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+Europe,Europe,Poland,,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,California,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+Europe,Europe,Poland,,1,1,0,1,0,0,0,1,0,1,1,1,1,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+Europe,Europe,Germany,Hamburg,1,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,IT but not Security,IT,NotSecurity,NotRed
+Asia,Asia,"Korea, Republic Of",,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Oklahoma,1,0,1,0,0,0,0,0,1,1,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,New Jersey,1,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,United Kingdom,England,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Idaho,0,0,0,0,0,1,0,0,0,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Georgia,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Virginia,1,1,0,1,0,1,0,0,1,1,1,1,1,0,0,1,Other (Non IT),NotIT,NotSecurity,NotRed
+Asia,Asia,Kazakhstan,,1,0,0,0,0,0,1,0,0,0,1,1,0,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+Asia,Asia,China,,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Illinois,1,0,0,0,0,1,0,0,0,0,1,1,1,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,California,0,0,0,0,0,1,1,1,1,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Asia,Asia,"Korea, Republic Of",,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Georgia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,New Jersey,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,California,1,0,0,0,0,1,1,0,0,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,California,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Virginia,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Virginia,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,Unknown,Unknown,,
+Asia,Asia,Japan,Osaka-fu,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,IT but not Security,Unknown,NotSecurity,NotRed
+North America,North America,United States,Georgia,0,0,0,1,0,1,1,1,1,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,Unknown,Security,Red
+Middle East,Middle East and Africa,Egypt,,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Washington,1,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Asia,Asia,Japan,Tokyo-to,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Washington,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Germany,Hamburg,1,0,0,0,0,1,0,0,1,1,1,0,0,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Virginia,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Maryland,1,0,0,0,0,0,0,0,1,0,1,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,Canada,Ontario,1,0,0,1,0,1,0,1,1,0,1,1,0,1,0,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,New Jersey,0,0,0,1,0,1,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Germany,Bayern,0,0,1,0,0,1,1,0,1,0,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+Europe,Europe,Russian Federation,,0,0,1,0,0,0,0,1,1,1,1,1,0,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,New Jersey,1,0,0,0,0,0,0,1,0,1,1,1,0,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Georgia,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,California,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,Canada,Ontario,1,0,0,1,0,0,0,0,0,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Middle East,Middle East and Africa,Kuwait,,1,0,0,0,0,0,1,0,0,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Wisconsin,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Maryland,1,0,0,0,1,0,1,0,0,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Florida,1,0,0,0,0,1,0,0,0,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Illinois,1,0,1,0,0,1,0,0,0,1,0,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Georgia,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Missouri,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Spain,,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Illinois,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,0,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Georgia,1,0,1,0,0,1,0,1,1,0,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,California,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Florida,1,0,1,0,1,1,0,1,1,1,1,0,0,0,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,Canada,Alberta,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,0,0,0,0,0,1,0,0,1,0,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Spain,Madrid,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Netherlands,,0,0,0,0,1,1,0,0,1,1,1,1,1,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Georgia,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Virginia,1,0,0,0,0,1,0,0,0,1,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Arkansas,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Georgia,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,Red team/Pentester - tests other organizations,IT,Security,Red
+Europe,Europe,France,,0,0,0,0,0,1,0,0,1,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+Europe,Europe,Russian Federation,,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Virginia,1,0,0,1,0,1,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,Canada,Ontario,0,0,1,0,0,1,0,1,1,1,0,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,Red team/Pentester - tests other organizations,IT,Security,Red
+Europe,Europe,Italy,,0,0,0,0,0,1,0,0,1,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Georgia,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+Oceania,Oceania,New Zealand,,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Georgia,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,South Carolina,1,0,0,0,0,1,1,0,0,0,1,1,1,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,New York,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Middle East,Middle East and Africa,Saudi Arabia,,0,0,1,0,1,1,0,0,0,0,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Georgia,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Washington,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Missouri,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Alabama,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Virginia,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,New Jersey,1,0,0,1,0,1,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,France,,0,0,0,1,0,1,0,1,1,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+Asia,Asia,Japan,Tokyo-to,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,Security but not Red team/Pentester,IT,Security,NotRed
+Oceania,Oceania,Australia,Victoria,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,New York,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,1,0,0,0,0,1,0,1,1,0,1,1,1,0,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Texas,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+Oceania,Oceania,Australia,Queensland,0,0,0,0,0,1,0,0,1,0,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Arkansas,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Virginia,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Massachusetts,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Ohio,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,0,0,0,0,0,1,0,1,1,1,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,1,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,New Jersey,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,New York,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Ohio,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Missouri,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Sweden,,1,0,0,0,1,1,0,0,0,0,0,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,California,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Georgia,1,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Florida,1,0,0,0,0,0,0,1,0,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,California,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,California,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+Asia,Asia,China,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Florida,0,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+Europe,Europe,Germany,Hamburg,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,France,,1,0,0,0,0,0,1,0,0,0,0,1,1,1,1,0,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Louisiana,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Spain,Madrid,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Germany,Nordrhein-westfalen,0,0,0,0,0,1,0,0,1,0,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Virginia,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Georgia,1,0,0,1,0,0,0,1,1,1,1,1,0,0,0,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Maryland,0,0,1,1,0,0,1,0,1,0,1,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,North Carolina,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Georgia,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,New Jersey,1,0,0,0,0,1,0,0,0,0,1,1,0,0,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Ohio,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Germany,Hamburg,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,New Jersey,0,0,0,1,1,0,1,1,1,0,0,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+South America,South and Central America,Argentina,,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,,1,0,0,0,0,0,0,1,1,1,1,1,1,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Virginia,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Georgia,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,Security but not Red team/Pentester,IT,Security,NotRed
+Middle East,Middle East and Africa,Lebanon,,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Pennsylvania,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Washington,0,0,0,0,0,1,0,0,1,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Wisconsin,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,France,,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Georgia,1,0,0,0,0,0,0,1,0,0,1,1,1,0,0,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Kansas,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Florida,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Massachusetts,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Pennsylvania,1,0,0,0,0,1,0,0,0,1,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,United Kingdom,England,1,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+Asia,Asia,Hong Kong,,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Russian Federation,,1,0,1,1,1,0,1,0,1,1,1,1,1,1,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,0,0,0,1,0,1,0,0,1,1,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Red team/Pentester - tests your own organization,IT,Security,Red
+Europe,Europe,Russian Federation,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Red team/Pentester - tests other organizations,IT,Security,Red
+Europe,Europe,Sweden,,0,0,0,0,0,1,0,0,1,1,1,1,0,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+Europe,Europe,Italy,,0,0,0,0,0,1,0,0,1,0,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Netherlands,,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Georgia,1,0,1,0,0,1,0,0,1,0,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Austria,Bundesland Wien,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Germany,Nordrhein-westfalen,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,Puerto Rico,,0,0,0,1,0,1,0,1,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Colorado,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,0,0,0,1,0,1,0,0,1,1,1,1,0,0,0,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Virginia,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+Europe,Europe,Germany,Hamburg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,Canada,Ontario,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Kansas,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,Canada,Ontario,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,Other (Non IT),NotIT,NotSecurity,NotRed
+Oceania,Oceania,Australia,Victoria,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Texas,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,California,1,0,0,0,0,1,1,1,0,1,1,1,1,0,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,California,1,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+Europe,Europe,Germany,Baden-wurttemberg,1,0,0,0,0,1,0,0,0,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Ireland,,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Ireland,,1,0,0,1,1,1,1,1,1,1,1,1,0,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,New Jersey,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Colorado,0,0,1,0,0,1,0,0,1,1,1,1,0,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Virginia,1,0,0,0,1,1,0,0,1,1,1,1,1,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Texas,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Ohio,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Massachusetts,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+South America,South and Central America,Peru,,1,0,1,1,1,1,1,1,0,1,0,1,1,0,1,0,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Wisconsin,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Pennsylvania,1,0,0,0,0,1,0,0,0,1,1,1,1,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,Canada,Ontario,0,0,0,0,0,1,0,0,1,1,1,1,0,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,New Jersey,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Georgia,1,0,0,0,0,1,0,1,0,0,1,1,1,1,1,0,Red team/Pentester - tests other organizations,IT,Security,Red
+North America,North America,United States,Virginia,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,Canada,Ontario,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,Kansas,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Virginia,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Massachusetts,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,Massachusetts,1,0,1,1,0,1,0,1,1,1,1,1,1,0,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Massachusetts,0,0,0,1,0,1,0,0,0,1,1,1,0,0,0,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Kentucky,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,1,IT but not Security,IT,NotSecurity,NotRed
+North America,North America,United States,New Jersey,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Jersey,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Ohio,1,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,New Hampshire,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Hungary,,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,Red team/Pentester - tests other organizations,IT,Security,Red
+Africa,Middle East and Africa,South Africa,,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Utah,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,Unknown,Unknown,,
+North America,North America,United States,New Jersey,0,0,0,0,0,1,0,1,1,1,1,1,1,0,1,1,Other (Non IT),NotIT,NotSecurity,NotRed
+North America,North America,United States,Virginia,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+Europe,Europe,Romania,,1,0,0,0,0,0,0,0,1,0,1,1,0,0,1,1,Security but not Red team/Pentester,IT,Security,NotRed
+North America,North America,United States,California,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,1,Red team/Pentester - tests your own organization,IT,Security,Red
+North America,North America,United States,Illinois,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Red team/Pentester - tests your own organization,IT,Security,Red
