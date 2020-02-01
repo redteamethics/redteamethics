@@ -2,10 +2,6 @@
 
 We propose a dialogue around the role and ethics surrounding the offensive security specialist. Return here to contribute to our project, see the results of our survey and collect resources for ethics vs red teaming!
 
-**Please fill out our one question survey at https://redteamsurvey.com/**
-
-(Link redirects to https://www.surveymonkey.com/r/2HYB66W )
-
 **Below are some thoughts and resources - if you have more, we would love your contributions and please submit them as a pull request!**
 
 Whether it be tailgating go get into a building or continuous corporate phishing exercises, what are the ethical boundaries? A lot of us joke or brag about how we are able to con our way into this or that, yet many have also thought about the potential effect we have on our victims.
