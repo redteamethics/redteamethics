@@ -4,14 +4,13 @@ We propose a dialogue around the role and ethics surrounding the offensive secur
 
 **Below are some thoughts and resources - if you have more, we would love your contributions and please submit them as a pull request!**
 
-Whether it be tailgating go get into a building or continuous corporate phishing exercises, what are the ethical boundaries? A lot of us joke or brag about how we are able to con our way into this or that, yet many have also thought about the potential effect we have on our victims.
+Whether it be tailgating go get into a building or continuous corporate phishing exercises, what are the ethical boundaries? A lot of us joke or brag about how we are able to con our way into this or that, yet many have also thought about the potential effect we have on our targets.
 
 Throughout countless books on pentesting and social engineering, there is a lot of discussion about legal issues, but rarely the ethics that should surround our profession.
 
-However, there are some people out there that have conducted great research that usually doesn't make it into the books. So far one some of the best discussions we have found are in the following paper:
+However, there are some people out there that have conducted great research that usually doesn't make it into the books. So far some of the best discussions we have found are in the following paper:
 
 **Mouton, Francois & Malan, Mercia & Kimppa, Kai & Venter, H.s. (2015). Necessity for ethics in social engineering research. Computers & Security. 55. 114 - 127. 10.1016/j.cose.2015.09.001.** [Source 1](https://www.researchgate.net/publication/281968010_Necessity_for_ethics_in_social_engineering_research), [Source 2](https://researchspace.csir.co.za/dspace/bitstream/handle/10204/8690/Mouton_2015.pdf?sequence=1&isAllowed=y)
-
 
 Much of the same discussion is also summarized in the following conference paper from 2013:
 
@@ -35,7 +34,6 @@ Somewhat building on these papers is the following:
 
 **Faily, Shamal & Iacob, Claudia & Field, Sarah. (2016). Ethical Hazards and Safeguards in Penetration Testing.** [Source](https://www.researchgate.net/publication/303857541_Ethical_Hazards_and_Safeguards_in_Penetration_Testing)
 
-
 Quote from the paper:
 > We elicited the following four ethical hazards: these are situations likely to increase the probability of unethical behaviour because of the means, motive, and opportunity to engage in such behaviour (Pendse 2011).
 >
@@ -43,8 +41,7 @@ Quote from the paper:
 > - Human Targets: Any testing activities with the potential to jeopardise the career or well-being of test subjects.
 > - Red Team vs Blue Team: Tensions that arise between testers (red teams) and client IT teams responsible for interacting with them (blue teams).
 > - Client Indifference: Occurrences where clients are reluctant to make changes prescribed by penetration testers, or downplay the signiﬁcance of problems found.
->
->
+>>
 > These hazards are mitigated by the following three safeguards:
 >
 > - Risk Articulation: the explanation of security risks, and the impact these have when put in a meaningful context.
